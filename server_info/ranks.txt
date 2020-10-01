@@ -1,0 +1,11 @@
+Stone: 0-0.2
+Copper: 0.2-0.3
+Bronze: 0.3-0.4
+Silver: 0.4-0.5
+Gold: 0.5-0.6
+Diamond: 0.6-0.65
+Master: 0.65-0.7
+Supreme Master: 0.7-0.75
+Grandmaster: 0.75-0.8
+Legend: 0.8-0.9
+Myth: 0.9-1
