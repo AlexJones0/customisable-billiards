@@ -19,6 +19,7 @@ Created in Python 3 using the Pygame library with a custom UI system, using disc
 - Server leaderboards.
 - Practice mode with a table editor to set up custom shots.
 - Replay system allowing you to save and review replays of both online and offline games.
+- Custom UI built on top of pygame.
 
 ## Depedencies
 - pygame 2.2.0
