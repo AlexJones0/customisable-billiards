@@ -4,7 +4,7 @@
 A 2D 8-ball pool simulation game with fully-customisable simulated physics, allowing online and offline play, custom shot mode, replays, competitive matches, statististics, leaderboards, and more.
 Created in Python 3 using the Pygame library with a custom UI system, using discrete collision resolution methods. 
 
-![customisable-billiards-screenshot](https://github.com/AlexJones0/customisable-billiards/assets/65985521/bfeefa6d-6744-470c-a2c6-19693973e20d)
+![customisable-billiards-screenshot](assets/customisable-billiards.png)
 
 ## Features
 - Offline and online multiplayer
@@ -23,3 +23,14 @@ Created in Python 3 using the Pygame library with a custom UI system, using disc
 
 ## Depedencies
 - pygame 2.2.0
+
+# Installation
+After installing the required dependencies, run 
+```bash
+python client.py
+```
+to create a client instance. Run 
+```bash
+python server.py
+``` 
+to create a local server instance. Server IP and competitive information can be modified in `server_info/conn_info.txt` as required.
